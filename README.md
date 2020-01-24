@@ -22,4 +22,4 @@ docker push nexxtway/circleci-android-api-28:latest
 ```
 
 
-This image should work with CircleCI 2.0. This image could be find on [Docker Hub](https://hub.docker.com/r/nexxtway/circleci-android-api/) and freely used, but updates are not guaranteed ;-).
+This image should work with CircleCI 2.0. This image could be find on [Docker Hub](https://hub.docker.com/r/nexxtway/circleci-android-api-28/) and freely used, but updates are not guaranteed ;-).
